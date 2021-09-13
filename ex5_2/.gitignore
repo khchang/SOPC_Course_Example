@@ -1,0 +1,10 @@
+nios2_no1/
+*.rpt
+*.cmp
+*.html
+*.sopcinfo
+*.bsf
+*.db_info
+*.rdr.flock
+*.qws
+*.xml
