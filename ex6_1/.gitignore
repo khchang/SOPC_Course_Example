@@ -16,6 +16,7 @@ db/*.qmsg
 db/*.idb
 db/*.hier_info
 db/*.tdb
+db/*.tmw_info
 PLLJ_PLLSPE_INFO.txt
 
 *.rpt
